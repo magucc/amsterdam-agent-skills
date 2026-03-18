@@ -46,6 +46,8 @@ done
 | Skill | Description |
 |-------|-------------|
 | [amsterdam-design-system](skills/amsterdam-design-system/) | Gemeente Amsterdam design system — React components, `--ams-*` tokens, Grid layout, Spacious/Compact modes, Tailwind v4 bridge |
+| [amsterdam-stijl](skills/amsterdam-stijl/) | Amsterdam municipality writing style — Heldere Taal (B1), Eenvoudige Taal (A2), inclusive language, tone of voice, word choice, text templates |
+| [jira-cli-ji](skills/jira-cli-ji/) | Jira CLI (ji) — PAT-based issue tracking, sprint management, JQL search, workflow automation |
 
 ## Structure
 
@@ -54,6 +56,13 @@ skills/
 ├── amsterdam-design-system/    # AMS React + tokens + layout
 │   ├── SKILL.md
 │   └── references/             # Component APIs, token catalog, templates
+├── amsterdam-stijl/            # Writing style, tone, language guidelines
+│   ├── SKILL.md
+│   └── references/             # Word lists, examples, templates
+├── jira-cli-ji/                # Jira CLI (PAT auth, no OAuth)
+│   ├── SKILL.md
+│   ├── cli-source/             # Python CLI package
+│   └── references/
 └── [new-skill]/
     └── SKILL.md                # Single-file skills
 ```

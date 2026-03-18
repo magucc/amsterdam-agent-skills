@@ -24,7 +24,27 @@
       "Bash(done)",
       "Bash(echo === $skill ===:*)",
       "Bash(cp:*)",
-      "WebFetch(domain:storybook.designsystem.amsterdam)"
+      "WebFetch(domain:storybook.designsystem.amsterdam)",
+      "WebFetch(domain:www.amsterdam.nl)",
+      "Bash(wc:*)",
+      "WebFetch(domain:assets.amsterdam.nl)",
+      "WebFetch(domain:amsterdam.nl)",
+      "WebFetch(domain:directduidelijk.gebruikercentraal.nl)",
+      "WebFetch(domain:docplayer.nl)",
+      "WebFetch(domain:www.gebruikercentraal.nl)",
+      "WebFetch(domain:www.lezenenschrijven.nl)",
+      "Read(//Users/mani/.claude/skills/**)",
+      "Read(//Users/mani/.agents/skills/**)",
+      "Bash(agent-browser:*)",
+      "Bash(npx agent-browser:*)",
+      "Bash(curl:*)",
+      "Bash(npx playwright:*)",
+      "WebFetch(domain:kankan.nl)",
+      "WebFetch(domain:wapenfeiten.zuid-holland.nl)",
+      "WebFetch(domain:site.dijkenwaard.nl)",
+      "Bash(ls:*)",
+      "Bash(uv tool:*)",
+      "Bash(ji:*)"
     ]
   }
 }
